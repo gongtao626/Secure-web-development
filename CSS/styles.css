@@ -1,0 +1,43 @@
+﻿#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+	color:blue;
+    height:400px;
+    width:130px;
+    float:left;
+    padding:5px; 
+}
+#section {
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+
+/*genearl appearnce*/
+td{width:auto;background-color:#E8E8E8;}
+td.submit{text-align:center;}
+
+/*list.php appearance*/
+/*table#list{border:0px #333333 solid; border-width:2px;}
+td.title{width:100px;background-color:#CFEAEB;}
+td#function{text-align:right;}*/
+
+/*form.php appearance*/
+/*table#form{border:0px #333333 solid; border-bottom-width:3px;}
+td.label{width:100px;background-color:#CFEAEB;text-align:right;}*/
+
+
+/*auth_form.php appearance*/
+/*td.details{width:100px;background-color:#CFEAEB;}*/
